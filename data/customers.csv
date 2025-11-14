@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,signup_date,loyalty_tier
+C1000,Ethan,Brown,ethan.brown83@example.com,+1-340-313-2849,3683 Oak Street,Portland,OR,50768,2024-11-05,Bronze
+C1001,Amelia,Taylor,amelia.taylor69@example.com,+1-823-830-5988,7639 Cedar Lane,Austin,TX,28748,2025-02-25,Bronze
+C1002,Noah,Davis,noah.davis27@example.com,+1-244-940-1964,7209 Cedar Lane,Boston,MA,89759,2025-06-20,Bronze
+C1003,Noah,Taylor,noah.taylor41@example.com,+1-754-311-2299,2973 Birch Place,Denver,CO,68914,2025-10-02,Gold
+C1004,Noah,Moore,noah.moore57@example.com,+1-775-348-5959,843 Highland Court,Chicago,IL,36859,2024-05-03,Bronze
+C1005,Ethan,Johnson,ethan.johnson61@example.com,+1-332-869-7837,933 Highland Court,Seattle,WA,61042,2024-01-17,Silver
+C1006,Mia,Moore,mia.moore80@example.com,+1-810-476-4275,4058 Pine Drive,San Diego,CA,92796,2024-02-22,Bronze
+C1007,Noah,Moore,noah.moore49@example.com,+1-325-909-7177,8987 Birch Place,Seattle,WA,65472,2025-02-24,Gold
+C1008,Sophia,Wilson,sophia.wilson90@example.com,+1-347-678-9231,5016 Birch Place,Portland,OR,84544,2025-05-24,Gold
+C1009,Liam,Brown,liam.brown96@example.com,+1-699-936-7385,2949 Oak Street,Denver,CO,60012,2024-04-22,Bronze
+C1010,Ethan,Garcia,ethan.garcia13@example.com,+1-688-466-8557,7485 Maple Avenue,Phoenix,AZ,15947,2024-09-01,Bronze
+C1011,Sophia,Miller,sophia.miller18@example.com,+1-579-681-7889,5740 Hillcrest Road,San Diego,CA,76702,2025-02-24,Gold
+C1012,Lucas,Moore,lucas.moore88@example.com,+1-715-597-6911,6492 Sunset Boulevard,Portland,OR,78977,2025-09-09,Silver
+C1013,Mia,Wilson,mia.wilson79@example.com,+1-648-382-2752,3255 Pine Drive,Phoenix,AZ,18536,2025-05-29,Platinum
+C1014,Noah,Garcia,noah.garcia89@example.com,+1-301-514-5670,3292 Pine Drive,San Diego,CA,34656,2024-03-17,Platinum
+C1015,Mia,Johnson,mia.johnson52@example.com,+1-209-696-4163,8603 Willow Way,Seattle,WA,27115,2025-02-24,Silver
+C1016,Sophia,Garcia,sophia.garcia21@example.com,+1-201-420-5666,6062 Riverview Terrace,Seattle,WA,17189,2025-09-06,Bronze
+C1017,Amelia,Taylor,amelia.taylor55@example.com,+1-899-347-3641,9975 Birch Place,Portland,OR,76322,2024-09-20,Bronze
+C1018,Ethan,Davis,ethan.davis35@example.com,+1-861-290-5702,1272 Birch Place,Phoenix,AZ,51784,2025-07-22,Gold
+C1019,Amelia,Brown,amelia.brown99@example.com,+1-967-231-6809,2352 Cedar Lane,Portland,OR,87555,2025-06-03,Silver
+C1020,Mia,Brown,mia.brown15@example.com,+1-744-299-7103,7558 Highland Court,Seattle,WA,74559,2024-07-23,Bronze
+C1021,Amelia,Martinez,amelia.martinez60@example.com,+1-552-485-6623,3523 Willow Way,Atlanta,GA,73170,2024-06-28,Gold
+C1022,Ethan,Garcia,ethan.garcia28@example.com,+1-668-985-2121,5834 Oak Street,Denver,CO,61865,2023-12-15,Bronze
+C1023,Ethan,Taylor,ethan.taylor13@example.com,+1-363-724-2778,1522 Oak Street,Miami,FL,52457,2025-02-27,Gold
+C1024,Ethan,Martinez,ethan.martinez25@example.com,+1-592-781-8267,1376 Riverview Terrace,Phoenix,AZ,36941,2024-08-04,Bronze
+C1025,Ava,Taylor,ava.taylor95@example.com,+1-566-336-6384,5056 Maple Avenue,Portland,OR,96961,2024-05-02,Bronze
+C1026,Liam,Davis,liam.davis99@example.com,+1-676-288-4614,4961 Pine Drive,Austin,TX,74209,2025-01-19,Gold
+C1027,Charlotte,Smith,charlotte.smith27@example.com,+1-995-593-7987,1330 Sunset Boulevard,Austin,TX,70540,2025-09-18,Bronze
+C1028,Noah,Miller,noah.miller58@example.com,+1-273-940-5093,709 Willow Way,Portland,OR,40486,2025-03-18,Bronze
+C1029,Mia,Smith,mia.smith96@example.com,+1-336-587-6082,294 Riverview Terrace,Austin,TX,90169,2024-07-31,Bronze
+C1030,Lucas,Moore,lucas.moore84@example.com,+1-678-221-4771,7568 Oak Street,Atlanta,GA,75825,2025-07-15,Silver
+C1031,Ethan,Moore,ethan.moore94@example.com,+1-455-999-1801,3377 Pine Drive,Portland,OR,89674,2024-12-08,Bronze
+C1032,Lucas,Johnson,lucas.johnson29@example.com,+1-826-712-7681,1525 Cedar Lane,Atlanta,GA,98530,2025-09-29,Silver
+C1033,Amelia,Johnson,amelia.johnson36@example.com,+1-894-699-8551,8633 Riverview Terrace,Atlanta,GA,35176,2024-07-29,Bronze
+C1034,Amelia,Smith,amelia.smith81@example.com,+1-927-829-5128,9839 Cedar Lane,Austin,TX,75259,2023-11-15,Silver
+C1035,Mia,Smith,mia.smith69@example.com,+1-864-621-6623,9097 Highland Court,Portland,OR,29001,2025-01-10,Silver
+C1036,Mia,Martinez,mia.martinez81@example.com,+1-441-743-9528,9722 Cedar Lane,Atlanta,GA,53054,2024-11-06,Bronze
+C1037,Amelia,Brown,amelia.brown54@example.com,+1-209-512-4159,6057 Riverview Terrace,Phoenix,AZ,57888,2024-11-24,Bronze
+C1038,Lucas,Brown,lucas.brown42@example.com,+1-946-703-6530,6659 Birch Place,Boston,MA,52173,2025-07-12,Bronze
+C1039,Ethan,Moore,ethan.moore63@example.com,+1-380-348-5120,8206 Birch Place,Atlanta,GA,61889,2024-02-21,Silver
+C1040,Sophia,Smith,sophia.smith37@example.com,+1-713-349-3291,1433 Sunset Boulevard,Seattle,WA,37656,2023-11-24,Bronze
+C1041,Mia,Brown,mia.brown22@example.com,+1-384-252-6312,1900 Pine Drive,Portland,OR,55091,2024-11-17,Bronze
+C1042,Lucas,Smith,lucas.smith33@example.com,+1-466-918-5461,3466 Willow Way,Seattle,WA,79863,2024-05-06,Silver
+C1043,Ethan,Miller,ethan.miller27@example.com,+1-462-977-8608,2033 Birch Place,Austin,TX,49109,2025-11-07,Bronze
+C1044,Ethan,Taylor,ethan.taylor82@example.com,+1-963-414-7934,4870 Maple Avenue,Chicago,IL,30788,2024-12-13,Bronze
+C1045,Lucas,Smith,lucas.smith28@example.com,+1-542-778-7327,2775 Highland Court,Miami,FL,53657,2024-09-23,Silver
+C1046,Noah,Martinez,noah.martinez82@example.com,+1-306-469-9242,8320 Willow Way,Atlanta,GA,89797,2024-08-30,Bronze
+C1047,Lucas,Wilson,lucas.wilson16@example.com,+1-443-910-1080,8115 Oak Street,Boston,MA,28321,2025-05-26,Silver
+C1048,Ethan,Davis,ethan.davis10@example.com,+1-224-721-5684,4286 Sunset Boulevard,Seattle,WA,27155,2025-06-28,Silver
+C1049,Ethan,Davis,ethan.davis16@example.com,+1-386-206-6526,2394 Maple Avenue,Miami,FL,11424,2023-12-06,Silver
+C1050,Ava,Moore,ava.moore63@example.com,+1-678-222-2618,6259 Willow Way,Miami,FL,89536,2025-04-28,Platinum
+C1051,Lucas,Davis,lucas.davis52@example.com,+1-239-724-7585,2371 Willow Way,Portland,OR,41882,2025-10-10,Bronze
+C1052,Ava,Johnson,ava.johnson85@example.com,+1-595-803-5825,4600 Cedar Lane,Seattle,WA,98795,2024-12-24,Bronze
+C1053,Mia,Martinez,mia.martinez36@example.com,+1-550-821-9320,9067 Cedar Lane,Atlanta,GA,64829,2025-07-12,Platinum
+C1054,Noah,Taylor,noah.taylor50@example.com,+1-523-239-2160,6798 Maple Avenue,San Diego,CA,68268,2024-01-11,Bronze
+C1055,Sophia,Brown,sophia.brown63@example.com,+1-293-838-6045,655 Highland Court,Miami,FL,93444,2025-04-14,Gold
+C1056,Amelia,Garcia,amelia.garcia60@example.com,+1-857-756-9433,9291 Maple Avenue,Boston,MA,74576,2024-01-27,Silver
+C1057,Amelia,Brown,amelia.brown82@example.com,+1-986-780-9190,372 Cedar Lane,Seattle,WA,51340,2024-01-02,Bronze
+C1058,Ethan,Wilson,ethan.wilson16@example.com,+1-244-903-5817,6796 Maple Avenue,Miami,FL,49309,2025-03-03,Silver
+C1059,Amelia,Martinez,amelia.martinez41@example.com,+1-505-662-4095,3522 Birch Place,Boston,MA,71950,2025-03-06,Gold
+C1060,Lucas,Smith,lucas.smith73@example.com,+1-521-483-7233,8811 Willow Way,Austin,TX,62186,2025-09-23,Silver
+C1061,Mia,Garcia,mia.garcia58@example.com,+1-378-472-8727,2191 Birch Place,Portland,OR,54472,2025-07-11,Bronze
+C1062,Ethan,Martinez,ethan.martinez28@example.com,+1-889-735-1448,2058 Willow Way,Atlanta,GA,24347,2024-11-21,Silver
+C1063,Ava,Wilson,ava.wilson13@example.com,+1-299-531-7835,8994 Sunset Boulevard,Denver,CO,78292,2024-12-23,Silver
+C1064,Isabella,Wilson,isabella.wilson74@example.com,+1-865-906-5376,5600 Oak Street,Chicago,IL,24643,2024-12-14,Gold
+C1065,Amelia,Brown,amelia.brown64@example.com,+1-783-259-2096,6140 Highland Court,Seattle,WA,78460,2025-01-27,Bronze
+C1066,Charlotte,Wilson,charlotte.wilson11@example.com,+1-510-803-7263,678 Cedar Lane,Seattle,WA,96715,2024-05-27,Silver
+C1067,Sophia,Johnson,sophia.johnson75@example.com,+1-779-223-4457,1190 Hillcrest Road,San Diego,CA,75418,2024-12-13,Bronze
+C1068,Liam,Garcia,liam.garcia41@example.com,+1-810-259-7719,327 Oak Street,Atlanta,GA,73934,2024-04-10,Bronze
+C1069,Liam,Garcia,liam.garcia98@example.com,+1-761-633-6943,8491 Hillcrest Road,Portland,OR,79869,2024-04-22,Bronze
+C1070,Noah,Wilson,noah.wilson84@example.com,+1-434-393-9675,9721 Oak Street,Atlanta,GA,44664,2023-12-05,Silver
+C1071,Ava,Davis,ava.davis20@example.com,+1-663-290-1194,2248 Highland Court,San Diego,CA,43553,2024-12-10,Silver
+C1072,Amelia,Smith,amelia.smith64@example.com,+1-346-930-3891,5957 Cedar Lane,Miami,FL,50076,2024-09-25,Bronze
+C1073,Isabella,Davis,isabella.davis71@example.com,+1-586-738-2826,8780 Hillcrest Road,Phoenix,AZ,42342,2024-08-16,Bronze
+C1074,Liam,Smith,liam.smith25@example.com,+1-448-435-5294,6769 Highland Court,Atlanta,GA,84214,2023-11-26,Bronze
+C1075,Amelia,Moore,amelia.moore39@example.com,+1-472-740-8623,757 Maple Avenue,San Diego,CA,66558,2025-05-05,Bronze
+C1076,Isabella,Smith,isabella.smith96@example.com,+1-838-724-3507,6177 Cedar Lane,Phoenix,AZ,56833,2024-03-04,Bronze
+C1077,Noah,Garcia,noah.garcia40@example.com,+1-536-680-1935,9131 Highland Court,Phoenix,AZ,14034,2024-12-21,Platinum
+C1078,Ava,Smith,ava.smith16@example.com,+1-670-891-6119,8467 Cedar Lane,Denver,CO,59711,2025-03-18,Silver
+C1079,Noah,Johnson,noah.johnson11@example.com,+1-412-830-2580,6200 Sunset Boulevard,Chicago,IL,86099,2025-07-06,Bronze
+C1080,Noah,Miller,noah.miller65@example.com,+1-769-838-1480,9817 Riverview Terrace,Phoenix,AZ,97760,2025-04-08,Bronze
+C1081,Ethan,Wilson,ethan.wilson67@example.com,+1-911-241-7369,7659 Birch Place,Miami,FL,41145,2025-11-10,Gold
+C1082,Ethan,Davis,ethan.davis73@example.com,+1-769-630-3308,2718 Riverview Terrace,Austin,TX,67430,2025-08-22,Bronze
+C1083,Liam,Martinez,liam.martinez24@example.com,+1-641-376-2177,341 Cedar Lane,Chicago,IL,94383,2024-05-18,Silver
+C1084,Isabella,Johnson,isabella.johnson22@example.com,+1-437-733-8335,5015 Oak Street,Seattle,WA,76425,2024-09-14,Bronze
+C1085,Lucas,Wilson,lucas.wilson41@example.com,+1-933-235-9695,1472 Birch Place,Seattle,WA,91861,2025-05-27,Bronze
+C1086,Noah,Davis,noah.davis13@example.com,+1-328-204-7946,5080 Highland Court,Phoenix,AZ,75785,2024-04-12,Silver
+C1087,Liam,Wilson,liam.wilson84@example.com,+1-710-691-9150,8924 Pine Drive,Portland,OR,86517,2023-12-15,Platinum
+C1088,Sophia,Davis,sophia.davis31@example.com,+1-231-313-8393,5776 Cedar Lane,Miami,FL,12928,2024-07-01,Gold
+C1089,Isabella,Taylor,isabella.taylor51@example.com,+1-941-559-5536,9639 Sunset Boulevard,Atlanta,GA,21599,2024-03-26,Silver
+C1090,Noah,Miller,noah.miller40@example.com,+1-663-974-8795,5791 Riverview Terrace,San Diego,CA,80512,2024-08-21,Gold
+C1091,Charlotte,Brown,charlotte.brown40@example.com,+1-455-786-8990,754 Willow Way,Denver,CO,95582,2024-11-12,Silver
+C1092,Charlotte,Johnson,charlotte.johnson15@example.com,+1-780-286-6970,6042 Birch Place,Seattle,WA,93917,2024-08-14,Silver
+C1093,Mia,Moore,mia.moore91@example.com,+1-432-392-4386,8105 Hillcrest Road,Denver,CO,49586,2025-09-07,Silver
+C1094,Noah,Martinez,noah.martinez30@example.com,+1-584-596-2530,5854 Birch Place,Seattle,WA,94375,2025-06-04,Silver
+C1095,Liam,Garcia,liam.garcia30@example.com,+1-601-985-9484,6821 Hillcrest Road,Phoenix,AZ,29304,2024-07-31,Silver
+C1096,Mia,Garcia,mia.garcia39@example.com,+1-406-317-1167,6200 Birch Place,Phoenix,AZ,82425,2025-04-08,Silver
+C1097,Liam,Johnson,liam.johnson49@example.com,+1-841-316-1530,1304 Birch Place,Atlanta,GA,22282,2025-03-03,Bronze
+C1098,Sophia,Johnson,sophia.johnson96@example.com,+1-812-695-2176,1638 Cedar Lane,Boston,MA,63416,2025-05-10,Silver
+C1099,Ethan,Wilson,ethan.wilson95@example.com,+1-715-392-4673,2936 Oak Street,San Diego,CA,12799,2024-08-24,Bronze
+C1100,Charlotte,Garcia,charlotte.garcia25@example.com,+1-396-869-6339,7475 Maple Avenue,Austin,TX,39827,2025-08-05,Silver
+C1101,Mia,Taylor,mia.taylor39@example.com,+1-297-531-7297,5931 Highland Court,Chicago,IL,16244,2025-09-11,Silver
+C1102,Sophia,Miller,sophia.miller57@example.com,+1-314-913-6645,8419 Cedar Lane,Portland,OR,28608,2024-02-05,Silver
+C1103,Charlotte,Martinez,charlotte.martinez79@example.com,+1-748-992-3148,7913 Highland Court,San Diego,CA,12354,2025-07-15,Silver
+C1104,Lucas,Martinez,lucas.martinez47@example.com,+1-602-290-6370,9997 Oak Street,San Diego,CA,68269,2024-04-21,Platinum
+C1105,Ethan,Miller,ethan.miller59@example.com,+1-955-918-1144,4728 Pine Drive,Seattle,WA,36834,2024-06-17,Bronze
+C1106,Charlotte,Johnson,charlotte.johnson72@example.com,+1-775-609-6853,194 Pine Drive,Boston,MA,34432,2025-05-15,Bronze
+C1107,Lucas,Taylor,lucas.taylor79@example.com,+1-758-501-1277,3652 Willow Way,San Diego,CA,78715,2024-11-02,Silver
+C1108,Amelia,Smith,amelia.smith38@example.com,+1-223-331-5741,1508 Riverview Terrace,Seattle,WA,42725,2024-04-19,Bronze
+C1109,Isabella,Martinez,isabella.martinez20@example.com,+1-520-607-4013,5156 Sunset Boulevard,Boston,MA,78215,2024-03-17,Bronze
+C1110,Liam,Wilson,liam.wilson40@example.com,+1-445-395-8899,9452 Willow Way,Miami,FL,26615,2025-01-19,Bronze
+C1111,Ava,Miller,ava.miller70@example.com,+1-690-721-6723,7127 Oak Street,Chicago,IL,53119,2024-04-27,Silver
+C1112,Ethan,Smith,ethan.smith94@example.com,+1-233-737-2886,9792 Maple Avenue,Denver,CO,93950,2025-10-23,Silver
+C1113,Ethan,Davis,ethan.davis51@example.com,+1-287-657-1753,4189 Oak Street,Miami,FL,14006,2024-04-23,Bronze
+C1114,Lucas,Moore,lucas.moore76@example.com,+1-337-398-5672,8298 Willow Way,Denver,CO,17779,2025-08-05,Silver
+C1115,Lucas,Wilson,lucas.wilson70@example.com,+1-620-904-1078,6424 Highland Court,Miami,FL,95351,2024-05-15,Bronze
+C1116,Isabella,Smith,isabella.smith88@example.com,+1-891-683-8250,8534 Hillcrest Road,Boston,MA,71983,2024-03-07,Silver
+C1117,Lucas,Miller,lucas.miller99@example.com,+1-934-424-1972,6709 Birch Place,Miami,FL,52053,2025-02-15,Platinum
+C1118,Amelia,Taylor,amelia.taylor62@example.com,+1-220-200-8705,2051 Highland Court,Chicago,IL,80203,2025-08-06,Bronze
+C1119,Sophia,Miller,sophia.miller93@example.com,+1-323-579-1741,2903 Cedar Lane,Austin,TX,31810,2025-04-24,Bronze
+C1120,Amelia,Moore,amelia.moore66@example.com,+1-946-529-7689,246 Oak Street,Portland,OR,27686,2024-08-10,Bronze
+C1121,Sophia,Taylor,sophia.taylor53@example.com,+1-939-886-3596,2876 Sunset Boulevard,Denver,CO,43668,2025-09-04,Bronze
+C1122,Liam,Davis,liam.davis16@example.com,+1-791-795-4155,9917 Pine Drive,Denver,CO,94693,2025-09-17,Bronze
+C1123,Mia,Moore,mia.moore56@example.com,+1-434-282-7120,5493 Hillcrest Road,Miami,FL,26091,2023-11-22,Silver
+C1124,Ethan,Garcia,ethan.garcia97@example.com,+1-617-501-3100,3398 Birch Place,San Diego,CA,38109,2025-11-10,Bronze
+C1125,Ava,Johnson,ava.johnson78@example.com,+1-870-258-7555,4346 Maple Avenue,Miami,FL,20604,2024-07-23,Bronze
+C1126,Lucas,Smith,lucas.smith64@example.com,+1-635-983-7119,6656 Oak Street,Atlanta,GA,35539,2024-12-04,Silver
+C1127,Lucas,Smith,lucas.smith30@example.com,+1-709-935-5787,4296 Willow Way,Phoenix,AZ,85731,2023-12-04,Bronze
+C1128,Liam,Davis,liam.davis37@example.com,+1-705-638-1807,5549 Hillcrest Road,Atlanta,GA,13282,2025-10-01,Bronze
+C1129,Ava,Smith,ava.smith42@example.com,+1-257-442-9633,1684 Willow Way,Denver,CO,44322,2025-06-24,Silver
+C1130,Sophia,Johnson,sophia.johnson49@example.com,+1-312-911-9491,182 Willow Way,Portland,OR,55815,2025-10-21,Bronze
+C1131,Lucas,Johnson,lucas.johnson98@example.com,+1-756-650-4212,1726 Riverview Terrace,Seattle,WA,24331,2023-12-29,Bronze
+C1132,Liam,Martinez,liam.martinez74@example.com,+1-569-370-1386,4285 Pine Drive,Seattle,WA,48703,2024-11-20,Gold
+C1133,Ethan,Garcia,ethan.garcia43@example.com,+1-906-217-3424,5906 Maple Avenue,Austin,TX,18137,2025-09-05,Gold
+C1134,Sophia,Miller,sophia.miller22@example.com,+1-295-800-6894,4506 Hillcrest Road,Miami,FL,23258,2024-09-13,Silver
+C1135,Ethan,Martinez,ethan.martinez66@example.com,+1-966-275-4000,1764 Highland Court,Boston,MA,60881,2023-12-10,Bronze
+C1136,Liam,Garcia,liam.garcia78@example.com,+1-917-753-6822,9175 Pine Drive,Atlanta,GA,44667,2025-02-17,Bronze
+C1137,Liam,Garcia,liam.garcia11@example.com,+1-742-832-5567,3297 Hillcrest Road,Chicago,IL,52178,2024-08-07,Silver
+C1138,Noah,Davis,noah.davis21@example.com,+1-856-602-2680,2164 Cedar Lane,Phoenix,AZ,52640,2025-05-21,Bronze
+C1139,Mia,Wilson,mia.wilson92@example.com,+1-292-414-5674,3068 Cedar Lane,Chicago,IL,17402,2025-02-21,Silver
+C1140,Mia,Moore,mia.moore24@example.com,+1-308-753-4147,6486 Pine Drive,Denver,CO,98871,2024-05-13,Silver
+C1141,Lucas,Garcia,lucas.garcia50@example.com,+1-622-881-1019,1868 Pine Drive,Austin,TX,96722,2023-12-30,Platinum
+C1142,Isabella,Taylor,isabella.taylor51@example.com,+1-356-799-2334,1196 Riverview Terrace,Boston,MA,33904,2025-06-25,Bronze
+C1143,Liam,Brown,liam.brown51@example.com,+1-612-700-1748,696 Oak Street,Boston,MA,43617,2024-12-31,Bronze
+C1144,Sophia,Miller,sophia.miller73@example.com,+1-396-588-2554,8570 Maple Avenue,Boston,MA,96226,2025-06-11,Bronze
+C1145,Noah,Johnson,noah.johnson17@example.com,+1-454-852-1440,6693 Willow Way,Phoenix,AZ,42911,2024-04-13,Silver
+C1146,Lucas,Martinez,lucas.martinez61@example.com,+1-613-774-3972,6804 Birch Place,Denver,CO,95614,2025-09-11,Silver
+C1147,Sophia,Brown,sophia.brown62@example.com,+1-203-340-2987,517 Highland Court,Denver,CO,15446,2025-01-11,Gold
+C1148,Isabella,Smith,isabella.smith90@example.com,+1-341-740-8219,2960 Sunset Boulevard,Boston,MA,53400,2024-02-10,Gold
+C1149,Lucas,Moore,lucas.moore93@example.com,+1-418-417-4680,3417 Highland Court,Atlanta,GA,66164,2023-12-28,Gold
+C1150,Sophia,Garcia,sophia.garcia16@example.com,+1-764-399-8543,8043 Highland Court,Boston,MA,83548,2024-04-02,Bronze
+C1151,Noah,Smith,noah.smith83@example.com,+1-453-785-4684,6888 Maple Avenue,Denver,CO,71156,2025-02-22,Bronze
+C1152,Lucas,Martinez,lucas.martinez91@example.com,+1-768-928-2174,9090 Sunset Boulevard,San Diego,CA,26388,2024-11-20,Bronze
+C1153,Liam,Garcia,liam.garcia71@example.com,+1-987-705-4678,5971 Maple Avenue,Portland,OR,20672,2025-07-29,Bronze
+C1154,Isabella,Brown,isabella.brown25@example.com,+1-713-952-7097,774 Maple Avenue,Austin,TX,50663,2024-10-18,Bronze
+C1155,Charlotte,Garcia,charlotte.garcia51@example.com,+1-848-310-8410,5208 Sunset Boulevard,Portland,OR,12787,2024-07-28,Bronze
+C1156,Sophia,Martinez,sophia.martinez62@example.com,+1-452-779-2638,6349 Maple Avenue,Boston,MA,78040,2025-09-03,Bronze
+C1157,Ava,Wilson,ava.wilson47@example.com,+1-737-924-6928,5565 Hillcrest Road,San Diego,CA,42664,2025-11-01,Platinum
+C1158,Isabella,Taylor,isabella.taylor88@example.com,+1-987-627-8809,6749 Sunset Boulevard,Portland,OR,43364,2024-12-09,Bronze
+C1159,Noah,Davis,noah.davis17@example.com,+1-217-941-9006,4046 Sunset Boulevard,Chicago,IL,31182,2023-12-31,Bronze
+C1160,Sophia,Garcia,sophia.garcia52@example.com,+1-729-325-3729,8347 Highland Court,Denver,CO,67930,2025-09-07,Bronze
+C1161,Isabella,Smith,isabella.smith23@example.com,+1-704-233-1358,6821 Cedar Lane,Chicago,IL,82087,2024-07-29,Bronze
+C1162,Charlotte,Brown,charlotte.brown69@example.com,+1-569-725-8016,2993 Pine Drive,Chicago,IL,71231,2024-12-08,Bronze
+C1163,Lucas,Brown,lucas.brown77@example.com,+1-231-494-3326,8305 Hillcrest Road,Atlanta,GA,21606,2024-03-15,Platinum
+C1164,Ava,Martinez,ava.martinez47@example.com,+1-349-561-7303,2524 Maple Avenue,Seattle,WA,70070,2025-09-01,Silver
+C1165,Ethan,Wilson,ethan.wilson69@example.com,+1-932-920-9951,429 Hillcrest Road,Boston,MA,17476,2025-05-18,Bronze
+C1166,Ethan,Johnson,ethan.johnson24@example.com,+1-842-296-9838,7550 Hillcrest Road,Denver,CO,32509,2025-11-10,Bronze
+C1167,Ava,Miller,ava.miller86@example.com,+1-275-587-5138,2833 Birch Place,Atlanta,GA,88914,2025-06-05,Bronze
+C1168,Ethan,Davis,ethan.davis69@example.com,+1-791-297-2834,9749 Willow Way,Miami,FL,76442,2025-10-18,Silver
+C1169,Ethan,Martinez,ethan.martinez15@example.com,+1-716-841-1172,1163 Sunset Boulevard,Miami,FL,41683,2025-03-21,Bronze
+C1170,Ava,Garcia,ava.garcia53@example.com,+1-530-883-7881,4549 Birch Place,San Diego,CA,50584,2025-09-02,Bronze
+C1171,Noah,Taylor,noah.taylor69@example.com,+1-629-771-8876,6516 Willow Way,San Diego,CA,39335,2025-07-06,Bronze
+C1172,Liam,Miller,liam.miller53@example.com,+1-309-952-5119,5649 Maple Avenue,Phoenix,AZ,81178,2025-06-24,Bronze
+C1173,Sophia,Davis,sophia.davis32@example.com,+1-211-694-5286,9301 Hillcrest Road,Austin,TX,35776,2024-12-18,Bronze
+C1174,Mia,Martinez,mia.martinez82@example.com,+1-336-941-9530,1381 Highland Court,Austin,TX,53987,2024-07-18,Bronze
+C1175,Lucas,Wilson,lucas.wilson90@example.com,+1-409-600-1334,8631 Highland Court,Miami,FL,63644,2024-07-22,Bronze
+C1176,Ethan,Brown,ethan.brown44@example.com,+1-633-425-7688,9980 Oak Street,Atlanta,GA,49182,2024-10-26,Gold
+C1177,Sophia,Brown,sophia.brown83@example.com,+1-571-880-9740,6577 Willow Way,Boston,MA,46552,2024-12-27,Gold
+C1178,Lucas,Martinez,lucas.martinez13@example.com,+1-297-325-9691,8525 Willow Way,Miami,FL,72316,2025-01-21,Silver
+C1179,Ava,Garcia,ava.garcia44@example.com,+1-870-875-7101,6374 Sunset Boulevard,San Diego,CA,12950,2024-01-13,Bronze
+C1180,Ava,Johnson,ava.johnson22@example.com,+1-318-513-1314,6091 Hillcrest Road,Atlanta,GA,28669,2024-02-19,Bronze
+C1181,Charlotte,Johnson,charlotte.johnson20@example.com,+1-226-410-6234,5950 Riverview Terrace,Seattle,WA,86625,2024-01-30,Platinum
+C1182,Lucas,Miller,lucas.miller37@example.com,+1-359-275-6799,9239 Cedar Lane,Miami,FL,24422,2025-08-27,Bronze
+C1183,Noah,Taylor,noah.taylor73@example.com,+1-629-326-8084,1315 Cedar Lane,Phoenix,AZ,83545,2024-07-13,Gold
+C1184,Amelia,Garcia,amelia.garcia88@example.com,+1-530-998-7064,4519 Maple Avenue,Chicago,IL,91722,2025-08-28,Silver
+C1185,Amelia,Miller,amelia.miller74@example.com,+1-247-890-2530,7217 Birch Place,Chicago,IL,82871,2025-09-13,Bronze
+C1186,Amelia,Moore,amelia.moore72@example.com,+1-273-884-6650,7260 Birch Place,Phoenix,AZ,11390,2024-11-02,Silver
+C1187,Amelia,Miller,amelia.miller44@example.com,+1-963-957-3431,8620 Oak Street,Seattle,WA,22363,2024-10-28,Bronze
+C1188,Mia,Smith,mia.smith61@example.com,+1-943-572-6737,8401 Highland Court,Seattle,WA,58591,2024-05-14,Bronze
+C1189,Ava,Miller,ava.miller68@example.com,+1-598-498-3157,4976 Willow Way,Austin,TX,75255,2025-02-15,Gold
+C1190,Charlotte,Miller,charlotte.miller35@example.com,+1-711-671-7825,1601 Pine Drive,Atlanta,GA,87829,2024-08-03,Bronze
+C1191,Isabella,Moore,isabella.moore38@example.com,+1-278-421-3413,302 Willow Way,Chicago,IL,95484,2024-05-06,Silver
+C1192,Amelia,Miller,amelia.miller52@example.com,+1-362-526-4568,1812 Sunset Boulevard,Portland,OR,79570,2024-01-12,Silver
+C1193,Charlotte,Johnson,charlotte.johnson49@example.com,+1-894-260-1805,5030 Cedar Lane,Denver,CO,53370,2025-05-21,Silver
+C1194,Isabella,Davis,isabella.davis79@example.com,+1-817-365-1825,4500 Pine Drive,Denver,CO,42023,2025-06-23,Silver
+C1195,Charlotte,Miller,charlotte.miller44@example.com,+1-723-851-8986,5518 Riverview Terrace,Denver,CO,67370,2025-03-02,Silver
+C1196,Ava,Brown,ava.brown34@example.com,+1-677-830-4696,9766 Maple Avenue,Chicago,IL,34201,2025-05-04,Silver
+C1197,Charlotte,Moore,charlotte.moore17@example.com,+1-975-798-1647,2167 Hillcrest Road,Austin,TX,73321,2024-12-08,Gold
+C1198,Mia,Martinez,mia.martinez97@example.com,+1-250-788-6998,3794 Birch Place,Austin,TX,69494,2024-01-07,Silver
+C1199,Sophia,Garcia,sophia.garcia53@example.com,+1-473-604-1560,3759 Maple Avenue,Portland,OR,56686,2024-03-10,Gold

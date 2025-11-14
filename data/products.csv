@@ -1,0 +1,201 @@
+product_id,name,category,price,cost,stock_qty,is_active,created_at
+P1000,Home & Kitchen Item 1,Home & Kitchen,160.34,110.17,140,True,2024-12-28
+P1001,Clothing Item 2,Clothing,12.43,7.53,142,True,2024-12-24
+P1002,Clothing Item 3,Clothing,161.86,113.21,33,True,2024-08-21
+P1003,Electronics Item 4,Electronics,203.61,96.30,458,False,2025-01-16
+P1004,Electronics Item 5,Electronics,222.24,115.04,135,False,2025-02-09
+P1005,Home & Kitchen Item 6,Home & Kitchen,163.65,99.26,275,False,2025-09-23
+P1006,Automotive Item 7,Automotive,233.66,106.92,275,True,2024-12-12
+P1007,Clothing Item 8,Clothing,134.36,101.84,204,True,2024-12-24
+P1008,Automotive Item 9,Automotive,177.88,123.46,463,False,2024-08-03
+P1009,Electronics Item 10,Electronics,172.63,86.45,269,False,2025-09-03
+P1010,Toys Item 11,Toys,162.19,95.52,32,False,2025-11-04
+P1011,Home & Kitchen Item 12,Home & Kitchen,118.78,80.93,386,True,2024-12-26
+P1012,Automotive Item 13,Automotive,232.70,102.54,46,False,2025-10-10
+P1013,Automotive Item 14,Automotive,133.39,67.48,257,False,2024-10-04
+P1014,Automotive Item 15,Automotive,188.88,126.22,157,False,2024-09-21
+P1015,Outdoors Item 16,Outdoors,119.72,56.63,22,False,2024-09-25
+P1016,Home & Kitchen Item 17,Home & Kitchen,242.85,149.84,315,True,2025-07-06
+P1017,Books Item 18,Books,54.21,34.70,38,True,2025-04-18
+P1018,Home & Kitchen Item 19,Home & Kitchen,134.48,92.54,323,True,2025-10-18
+P1019,Beauty Item 20,Beauty,114.08,70.67,378,False,2025-07-04
+P1020,Pet Supplies Item 21,Pet Supplies,206.53,91.93,211,False,2024-11-17
+P1021,Beauty Item 22,Beauty,104.76,57.50,198,True,2025-07-03
+P1022,Home & Kitchen Item 23,Home & Kitchen,136.74,79.10,488,True,2025-03-10
+P1023,Electronics Item 24,Electronics,157.38,78.69,71,False,2024-08-07
+P1024,Beauty Item 25,Beauty,248.25,123.88,331,False,2024-06-08
+P1025,Electronics Item 26,Electronics,195.25,106.35,148,True,2025-02-07
+P1026,Clothing Item 27,Clothing,63.47,49.46,116,True,2024-07-09
+P1027,Outdoors Item 28,Outdoors,29.94,20.70,474,False,2024-09-28
+P1028,Home & Kitchen Item 29,Home & Kitchen,149.14,93.91,223,False,2024-06-24
+P1029,Beauty Item 30,Beauty,30.24,15.14,358,False,2025-03-04
+P1030,Books Item 31,Books,238.97,169.40,13,True,2024-08-27
+P1031,Electronics Item 32,Electronics,90.74,61.81,74,True,2025-02-01
+P1032,Sports Item 33,Sports,154.95,67.81,236,True,2025-01-26
+P1033,Clothing Item 34,Clothing,63.32,49.05,50,True,2024-09-07
+P1034,Pet Supplies Item 35,Pet Supplies,69.40,33.31,201,True,2025-08-31
+P1035,Electronics Item 36,Electronics,42.38,32.86,427,False,2025-08-01
+P1036,Electronics Item 37,Electronics,18.16,14.21,182,True,2024-06-26
+P1037,Outdoors Item 38,Outdoors,37.57,15.83,330,False,2025-09-13
+P1038,Books Item 39,Books,57.71,43.94,13,False,2025-06-22
+P1039,Sports Item 40,Sports,116.78,63.05,181,False,2024-07-06
+P1040,Automotive Item 41,Automotive,78.98,50.34,337,True,2025-08-04
+P1041,Sports Item 42,Sports,62.13,43.53,375,False,2024-11-29
+P1042,Electronics Item 43,Electronics,114.34,81.03,113,True,2025-09-23
+P1043,Electronics Item 44,Electronics,240.85,131.48,124,False,2024-07-28
+P1044,Books Item 45,Books,89.06,46.58,75,False,2025-03-03
+P1045,Automotive Item 46,Automotive,111.04,46.13,196,False,2025-05-13
+P1046,Electronics Item 47,Electronics,24.20,11.34,153,True,2025-03-16
+P1047,Clothing Item 48,Clothing,138.26,58.35,425,False,2024-08-11
+P1048,Pet Supplies Item 49,Pet Supplies,39.55,17.22,47,True,2025-07-17
+P1049,Outdoors Item 50,Outdoors,161.37,84.02,151,True,2025-09-29
+P1050,Automotive Item 51,Automotive,232.22,137.57,385,False,2025-05-26
+P1051,Books Item 52,Books,126.79,91.26,79,False,2025-01-03
+P1052,Clothing Item 53,Clothing,56.88,31.78,75,False,2025-09-16
+P1053,Automotive Item 54,Automotive,192.60,143.04,195,False,2025-03-02
+P1054,Outdoors Item 55,Outdoors,85.82,61.99,168,False,2024-08-25
+P1055,Pet Supplies Item 56,Pet Supplies,40.20,28.63,277,False,2024-08-01
+P1056,Sports Item 57,Sports,169.48,130.93,12,True,2024-10-09
+P1057,Books Item 58,Books,193.22,144.52,223,True,2025-02-06
+P1058,Toys Item 59,Toys,19.73,13.63,96,True,2025-07-25
+P1059,Home & Kitchen Item 60,Home & Kitchen,91.19,71.30,335,True,2025-10-07
+P1060,Electronics Item 61,Electronics,151.02,104.10,83,False,2025-11-11
+P1061,Home & Kitchen Item 62,Home & Kitchen,118.20,76.31,134,True,2025-03-09
+P1062,Home & Kitchen Item 63,Home & Kitchen,35.15,14.88,375,True,2025-04-23
+P1063,Electronics Item 64,Electronics,243.16,142.94,459,True,2025-08-01
+P1064,Books Item 65,Books,209.86,113.50,289,True,2024-06-15
+P1065,Toys Item 66,Toys,237.63,99.70,31,False,2025-09-30
+P1066,Automotive Item 67,Automotive,82.23,60.81,155,True,2025-09-15
+P1067,Books Item 68,Books,125.33,78.91,467,False,2024-06-10
+P1068,Automotive Item 69,Automotive,197.75,141.65,267,True,2025-01-15
+P1069,Pet Supplies Item 70,Pet Supplies,171.73,98.55,293,True,2025-09-07
+P1070,Beauty Item 71,Beauty,163.61,94.00,384,True,2025-01-04
+P1071,Automotive Item 72,Automotive,91.83,64.26,197,False,2025-02-15
+P1072,Pet Supplies Item 73,Pet Supplies,217.50,106.02,225,True,2025-05-06
+P1073,Toys Item 74,Toys,226.94,112.60,321,True,2024-09-22
+P1074,Beauty Item 75,Beauty,149.45,119.42,194,True,2024-09-23
+P1075,Home & Kitchen Item 76,Home & Kitchen,135.76,106.32,367,True,2025-09-29
+P1076,Toys Item 77,Toys,229.87,137.54,255,False,2025-04-28
+P1077,Toys Item 78,Toys,111.25,64.73,470,False,2025-11-02
+P1078,Automotive Item 79,Automotive,45.00,29.90,141,False,2025-03-18
+P1079,Electronics Item 80,Electronics,76.31,31.13,491,False,2025-10-13
+P1080,Toys Item 81,Toys,138.24,84.19,317,True,2025-01-18
+P1081,Pet Supplies Item 82,Pet Supplies,184.66,86.04,209,False,2025-03-11
+P1082,Outdoors Item 83,Outdoors,77.45,39.22,194,True,2024-08-03
+P1083,Sports Item 84,Sports,129.95,67.35,486,False,2025-06-07
+P1084,Books Item 85,Books,108.23,50.20,242,False,2024-12-13
+P1085,Pet Supplies Item 86,Pet Supplies,146.03,83.39,449,False,2024-06-18
+P1086,Automotive Item 87,Automotive,141.73,112.98,476,False,2024-08-13
+P1087,Sports Item 88,Sports,193.33,97.91,315,True,2024-06-29
+P1088,Toys Item 89,Toys,96.59,59.50,376,False,2025-03-10
+P1089,Electronics Item 90,Electronics,240.86,162.43,306,False,2025-09-06
+P1090,Toys Item 91,Toys,88.65,45.54,79,True,2025-05-07
+P1091,Clothing Item 92,Clothing,58.42,35.30,306,True,2024-06-11
+P1092,Pet Supplies Item 93,Pet Supplies,46.34,20.62,306,False,2024-11-01
+P1093,Sports Item 94,Sports,50.04,37.05,241,False,2024-09-28
+P1094,Outdoors Item 95,Outdoors,46.33,31.77,461,False,2025-01-29
+P1095,Electronics Item 96,Electronics,102.86,49.13,123,True,2024-11-03
+P1096,Automotive Item 97,Automotive,71.03,40.25,297,False,2025-01-16
+P1097,Books Item 98,Books,235.78,130.59,433,False,2025-07-30
+P1098,Sports Item 99,Sports,58.21,43.95,212,True,2024-09-14
+P1099,Sports Item 100,Sports,196.05,85.86,470,False,2024-06-23
+P1100,Beauty Item 101,Beauty,29.90,12.74,457,False,2025-08-13
+P1101,Outdoors Item 102,Outdoors,60.08,44.71,31,True,2024-09-22
+P1102,Home & Kitchen Item 103,Home & Kitchen,145.93,101.11,454,True,2024-06-03
+P1103,Electronics Item 104,Electronics,193.86,80.13,489,False,2025-08-05
+P1104,Beauty Item 105,Beauty,157.09,71.60,285,False,2024-08-20
+P1105,Electronics Item 106,Electronics,9.95,6.40,48,False,2024-11-25
+P1106,Sports Item 107,Sports,38.72,21.42,78,False,2024-10-15
+P1107,Sports Item 108,Sports,207.68,125.59,28,False,2025-09-16
+P1108,Electronics Item 109,Electronics,51.67,36.17,251,False,2024-12-07
+P1109,Clothing Item 110,Clothing,79.01,57.85,164,True,2024-07-25
+P1110,Outdoors Item 111,Outdoors,200.35,97.53,221,True,2025-08-25
+P1111,Automotive Item 112,Automotive,203.33,148.05,78,True,2025-09-12
+P1112,Home & Kitchen Item 113,Home & Kitchen,155.43,122.95,222,True,2025-10-11
+P1113,Electronics Item 114,Electronics,196.77,135.11,218,True,2025-01-08
+P1114,Clothing Item 115,Clothing,5.75,4.39,437,False,2025-09-09
+P1115,Clothing Item 116,Clothing,159.24,114.00,373,True,2025-09-18
+P1116,Beauty Item 117,Beauty,91.97,53.18,266,False,2024-12-21
+P1117,Books Item 118,Books,65.98,37.45,432,True,2024-06-10
+P1118,Books Item 119,Books,73.28,47.10,361,True,2025-08-15
+P1119,Pet Supplies Item 120,Pet Supplies,178.16,99.28,29,False,2024-05-23
+P1120,Electronics Item 121,Electronics,184.84,121.43,88,False,2024-05-31
+P1121,Toys Item 122,Toys,198.49,136.84,24,False,2025-04-23
+P1122,Pet Supplies Item 123,Pet Supplies,224.34,152.97,117,True,2024-11-30
+P1123,Outdoors Item 124,Outdoors,244.05,117.78,283,False,2024-12-12
+P1124,Pet Supplies Item 125,Pet Supplies,115.04,72.11,36,False,2025-01-07
+P1125,Beauty Item 126,Beauty,211.29,109.02,50,True,2025-03-19
+P1126,Toys Item 127,Toys,221.94,107.54,457,False,2024-09-14
+P1127,Home & Kitchen Item 128,Home & Kitchen,24.08,18.47,442,False,2025-07-05
+P1128,Pet Supplies Item 129,Pet Supplies,96.34,76.60,396,True,2024-11-23
+P1129,Beauty Item 130,Beauty,111.08,75.51,387,False,2024-11-26
+P1130,Outdoors Item 131,Outdoors,113.86,87.79,138,True,2025-02-09
+P1131,Automotive Item 132,Automotive,27.86,14.92,463,True,2025-06-09
+P1132,Beauty Item 133,Beauty,25.32,15.12,372,True,2025-01-04
+P1133,Home & Kitchen Item 134,Home & Kitchen,128.29,59.54,379,False,2025-10-24
+P1134,Electronics Item 135,Electronics,109.84,56.78,120,False,2024-11-23
+P1135,Automotive Item 136,Automotive,79.73,33.51,391,True,2025-04-25
+P1136,Beauty Item 137,Beauty,53.57,41.29,162,False,2024-06-06
+P1137,Outdoors Item 138,Outdoors,195.69,136.45,72,True,2025-02-13
+P1138,Electronics Item 139,Electronics,28.07,21.55,279,True,2025-01-14
+P1139,Outdoors Item 140,Outdoors,81.43,60.47,341,False,2024-08-23
+P1140,Outdoors Item 141,Outdoors,197.22,157.63,152,True,2025-02-01
+P1141,Outdoors Item 142,Outdoors,32.31,19.30,16,False,2024-10-23
+P1142,Electronics Item 143,Electronics,114.11,85.86,301,True,2024-09-22
+P1143,Electronics Item 144,Electronics,72.84,45.19,191,False,2025-02-28
+P1144,Beauty Item 145,Beauty,133.98,89.40,193,False,2025-09-26
+P1145,Clothing Item 146,Clothing,157.07,118.01,228,False,2024-11-16
+P1146,Home & Kitchen Item 147,Home & Kitchen,214.71,121.85,360,False,2025-03-28
+P1147,Electronics Item 148,Electronics,141.55,110.65,145,False,2025-08-05
+P1148,Electronics Item 149,Electronics,236.00,100.19,437,True,2025-06-01
+P1149,Home & Kitchen Item 150,Home & Kitchen,208.15,156.75,378,False,2024-07-30
+P1150,Toys Item 151,Toys,204.73,95.00,435,False,2024-07-22
+P1151,Sports Item 152,Sports,231.79,124.69,144,False,2024-11-04
+P1152,Outdoors Item 153,Outdoors,9.02,6.14,487,True,2025-10-16
+P1153,Outdoors Item 154,Outdoors,160.19,126.64,354,False,2025-10-04
+P1154,Clothing Item 155,Clothing,220.06,101.18,387,False,2025-07-31
+P1155,Toys Item 156,Toys,38.55,16.64,83,False,2024-06-12
+P1156,Pet Supplies Item 157,Pet Supplies,58.86,34.71,356,False,2024-10-13
+P1157,Books Item 158,Books,98.56,71.30,242,True,2024-11-17
+P1158,Home & Kitchen Item 159,Home & Kitchen,111.60,55.78,495,True,2025-10-07
+P1159,Automotive Item 160,Automotive,22.54,9.93,470,True,2025-05-03
+P1160,Home & Kitchen Item 161,Home & Kitchen,136.45,56.47,376,False,2025-06-14
+P1161,Home & Kitchen Item 162,Home & Kitchen,249.99,111.92,111,True,2025-09-26
+P1162,Beauty Item 163,Beauty,109.86,46.66,172,True,2024-12-01
+P1163,Beauty Item 164,Beauty,223.16,141.82,157,True,2025-01-02
+P1164,Home & Kitchen Item 165,Home & Kitchen,53.14,40.01,17,True,2024-06-11
+P1165,Pet Supplies Item 166,Pet Supplies,138.18,85.09,313,False,2025-06-23
+P1166,Books Item 167,Books,60.12,28.45,436,True,2025-06-07
+P1167,Beauty Item 168,Beauty,234.72,182.70,163,True,2025-03-10
+P1168,Pet Supplies Item 169,Pet Supplies,48.33,19.81,342,False,2025-09-15
+P1169,Pet Supplies Item 170,Pet Supplies,43.65,18.42,308,True,2025-01-20
+P1170,Pet Supplies Item 171,Pet Supplies,165.56,123.39,329,True,2025-01-23
+P1171,Automotive Item 172,Automotive,104.41,71.03,255,True,2024-05-25
+P1172,Books Item 173,Books,210.89,112.99,45,True,2025-06-12
+P1173,Clothing Item 174,Clothing,168.62,93.56,463,True,2025-03-20
+P1174,Pet Supplies Item 175,Pet Supplies,87.11,68.16,250,False,2024-08-25
+P1175,Automotive Item 176,Automotive,190.33,147.64,331,True,2024-08-25
+P1176,Clothing Item 177,Clothing,5.47,3.98,487,True,2025-03-26
+P1177,Outdoors Item 178,Outdoors,79.01,42.71,100,True,2024-07-14
+P1178,Sports Item 179,Sports,218.53,98.22,128,False,2025-10-23
+P1179,Books Item 180,Books,197.51,97.53,159,True,2025-05-14
+P1180,Books Item 181,Books,124.54,96.50,225,False,2024-12-26
+P1181,Clothing Item 182,Clothing,98.18,52.29,215,False,2025-03-16
+P1182,Books Item 183,Books,127.80,65.72,32,False,2025-01-24
+P1183,Automotive Item 184,Automotive,191.10,81.34,283,False,2024-06-24
+P1184,Electronics Item 185,Electronics,84.20,62.19,389,False,2025-10-05
+P1185,Toys Item 186,Toys,128.18,91.54,285,True,2025-03-05
+P1186,Home & Kitchen Item 187,Home & Kitchen,95.10,60.04,101,False,2025-10-10
+P1187,Toys Item 188,Toys,109.25,83.37,277,False,2025-09-04
+P1188,Toys Item 189,Toys,97.67,53.12,458,True,2025-08-25
+P1189,Beauty Item 190,Beauty,228.72,177.99,118,False,2025-08-03
+P1190,Pet Supplies Item 191,Pet Supplies,63.45,44.62,264,False,2024-08-11
+P1191,Toys Item 192,Toys,226.91,136.63,188,False,2025-07-04
+P1192,Home & Kitchen Item 193,Home & Kitchen,43.27,25.31,17,True,2025-05-13
+P1193,Toys Item 194,Toys,134.82,70.97,196,False,2025-07-29
+P1194,Books Item 195,Books,35.54,22.79,444,False,2024-10-26
+P1195,Sports Item 196,Sports,117.56,64.33,273,False,2025-04-29
+P1196,Toys Item 197,Toys,147.19,100.86,355,True,2025-08-05
+P1197,Automotive Item 198,Automotive,202.57,159.38,415,False,2025-05-22
+P1198,Pet Supplies Item 199,Pet Supplies,22.46,10.14,190,False,2025-06-11
+P1199,Books Item 200,Books,105.24,47.02,74,False,2024-08-23
